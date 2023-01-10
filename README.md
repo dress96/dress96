@@ -8,7 +8,7 @@ My real name is Adrian, I have a **degree in physics** and I am currently **stud
 - Relational databases like **sql**
 - Scientific programming with **python and matlab**
 - **Quantum programming** and quantum computers
-- Programming languages **C++, C#, C and python**
+- Programming languages **C++, C#, C, LUA and python**
 
 # 🗨 About me
 
