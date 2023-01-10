@@ -9,6 +9,7 @@ My real name is Adrian, I have a **degree in physics** and I am currently **stud
 - Scientific programming with **python and matlab**
 - **Quantum programming** and quantum computers
 - Programming languages **C++, C#, C, LUA and python**
+- **Currently, I'm learning Assembly language**
 
 # 🗨 About me
 
