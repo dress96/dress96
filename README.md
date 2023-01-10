@@ -1,5 +1,5 @@
-# Hello, I'm  Dress
-My real name is Adrian, I have a **degree in physics** and I am currently **studying mathematics** in Tenerife, Canary Islands. Currently I specialize in **materials physics and quantum** with knowledge of **scientific programming**. I started in the world of programming at the age of 14.
+# Hello, I'm  Dress 🔭
+My real name is Adrian, I have a **degree in physics** and I am currently **studying mathematics** in Tenerife, Canary Islands. Currently I specialize in **materials physics and quantum** with knowledge of **scientific programming**.
 
 # ⌨ Technologies
 
@@ -12,6 +12,7 @@ My real name is Adrian, I have a **degree in physics** and I am currently **stud
 
 # 🗨 About me
 
+- I started in the world of programming at **the age of 13**.
 - I know a wide **variety of subjects** and **I am easy to learn**
 - I like languages I speak **Spanish, English, Japanese and Korean**
 - I like everything related to **quantum, astrophysics and mathematics**
