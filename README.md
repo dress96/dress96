@@ -1,4 +1,4 @@
-# Hello, I'm  Dress 🔭
+# 🔭 Hello, I'm  Dress 
 My real name is Adrian, I have a **degree in physics** and I am currently **studying mathematics** in Tenerife, Canary Islands. Currently I specialize in **materials physics and quantum** with knowledge of **scientific programming**.
 
 # ⌨ Technologies
