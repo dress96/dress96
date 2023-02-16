@@ -15,7 +15,7 @@ My real name is Adrian, I have a **degree in physics** and I am currently **stud
 
 - I started in the world of programming at **the age of 13**.
 - I know a wide **variety of subjects** and **I am easy to learn**
-- I like languages I speak **Spanish, English, Japanese and Korean**
+- I like languages I speak **Spanish, English, Chinese, Japanese and Korean**
 - I like everything related to **quantum, astrophysics and mathematics**
 - I adapt to any fast **programming method or language**
 
